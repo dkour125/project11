@@ -69,3 +69,52 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+🎯 Purpose
+Why This Project?
+
+The Task Manager API is a backend system designed to:
+
+    Demonstrate Core Backend Skills
+
+        A practical implementation of Node.js + Express best practices.
+
+        Focus on RESTful API design, authentication, and database modeling with MongoDB.
+
+    Solve a Real-World Problem
+
+        Provides a structured way for users to create, organize, and track tasks (e.g., for personal productivity or team workflows).
+
+        Securely manages user-specific data with JWT authentication and encrypted passwords.
+
+    Serve as a Learning Tool
+
+        Ideal for developers learning:
+
+            How to build scalable APIs.
+
+            How to integrate JWT for security.
+
+            How to structure MongoDB schemas (e.g., task-user relationships).
+
+    Foundation for Extensions
+
+        Can be extended with:
+
+            Frontend clients (React, Vue, etc.).
+
+            Advanced features (webhooks, real-time updates with Socket.io, or user roles).
+
+Target Users
+
+    👩💻 Developers: A reference for building authenticated APIs.
+
+    📱 Frontend Developers: Ready-to-integrate backend for task-management apps.
+
+    � Hobbyists: A template to experiment with Node.js/MongoDB.
+
+Key Differentiators
+
+✔ Minimalist but Powerful – Focuses on essentials (no bloat).
+✔ Clear Documentation – Easy to understand and modify.
+✔ Modular Code – Easy to add new features (e.g., due dates, categories).
